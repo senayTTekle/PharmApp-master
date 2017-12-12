@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PharmTech</string>
+    <string name="medicine_name_textview">Medicine Name</string>
+    <string name="show_detail_button">Show Detail</string>
+    <string name="audio_button">Play Audio</string>
+    <string name="main_menu_button">Main Menu</string>
+    <string name="filter_menu_button">Filter Menu</string>
+    <string name="submit_button_quiz">Submit</string>
+    <string name="next_button"><![CDATA[ > ]]></string>
+    <string name="previous_button"><![CDATA[ < ]]></string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="search">Search</string>
+    <string name="clear_search">Clear Search</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="daily_drug_title">Drug of the Day</string>
+    <string name="purpose">purpose</string>
+    <string name="brand_name">brand_name</string>
+    <string name="generic_name">generic_name</string>
+    <string name="enter_ref">enter_ref</string>
+    <string name="delete_data">delete_data</string>
+    <string name="update_data">update_data</string>
+    <string name="input_new_drugs">input_new_drugs</string>
+    <string name="display_data">display_data</string>
+    <string name="dea_sch">dea_sch</string>
+    <string name="special">special</string>
+    <string name="category">category</string>
+    <string name="study_topic">study_topic</string>
+    <string name="administrator">administrator</string>
+    <string name="administrator1">Administrator</string>
+</resources>
